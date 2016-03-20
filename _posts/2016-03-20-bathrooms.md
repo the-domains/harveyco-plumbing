@@ -8,33 +8,32 @@ keywords: []
 description: |-
   The image above is a custom-built master bath with his/her's
   toilets & lavatories, shower with steam unit, and tub with handheld shower.
-datePublished: '2016-03-20T22:17:19.099Z'
-dateModified: '2016-03-20T22:17:03.674Z'
+datePublished: '2016-03-20T22:34:00.064Z'
+dateModified: '2016-03-20T22:33:45.081Z'
 title: Bathrooms
 author: []
+sourcePath: _posts/2016-03-20-bathrooms.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-bathrooms.md
-published: true
 url: bathrooms/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/818d0210-47f0-4a52-acc6-994559b37abf.jpg)
-
 # Bathrooms
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d6df4dc-01fc-4b30-ae9f-0bb04709c357.jpg)
 
 The image above is a custom-built master bath with his/her's
 toilets & lavatories, shower with steam unit, and tub with handheld shower.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ced6c24-2178-4477-a2bf-bc3ccc895057.jpg)
 
 Here is a complete bathroom installation, including spa
 tub, shower, toilet and sinks
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db17ee83-d8d2-4cef-9790-e1f0395437a6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67151c45-60b9-41ed-9132-6faf8cca8e07.jpg)
 
 This was a custom-built guest bathroom.
 
