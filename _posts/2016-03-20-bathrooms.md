@@ -8,8 +8,8 @@ keywords: []
 description: |-
   The image above is a custom-built master bath with his/her's
   toilets & lavatories, shower with steam unit, and tub with handheld shower.
-datePublished: '2016-03-20T22:34:00.064Z'
-dateModified: '2016-03-20T22:33:45.081Z'
+datePublished: '2016-03-23T21:46:17.688Z'
+dateModified: '2016-03-23T21:44:42.132Z'
 title: Bathrooms
 author: []
 sourcePath: _posts/2016-03-20-bathrooms.md
